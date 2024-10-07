@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Message from a space corporation in the near-future (fictional)</title>
+    <link rel="stylesheet" href="../css/terminal.css">
+    <style>
+.body {
+  background-color: black;
+  background-image: radial-gradient(
+    rgba(0, 150, 0, 0.75), black 120%
+  );
+  margin: 0;
+  overflow: hidden;
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #C8C8C8;
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(black, 0.15),
+      rgba(black, 0.15) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+    pointer-events: none;
+  }
+}
+::selection {
+  background: #0080FF;
+  text-shadow: none;
+}
+    </style>
+  </head>
+  <body class="terminal">
+    <div class="container" style="margin-top:20px;margin-bottom:20px">
+      <div class="terminal-card">
+        <header>Message from a space corporation in the near-future (fictional)</header>
+        <div class="body">
+          >> Intercepting signals around the colony...<br><br>
+          >> You have received a message. Open it? [Y]/[N]<br><br>
+          > Y<br><br>
+          >> Opening message...<br><br>
+          >> We are a corporation-state run by a corpotocracy and state capitalism, and we are going to buy all the land on the moon and license it to anyone who wants to mine or settle on it. We are going to call it the "Lunar Licensing Program". Our licenses will be bought (or rented) by other corpotocracies, and the combined cost of all the licenses will be 30% higher than the price we paid when we bought the moon.<br><br>
+          >> And we are not just going to purchase the moon, but we are also going to purchase all the major moons of Jupiter and Saturn, to create the "Solar Licensing Program". We will also lobby against regulations which specifically prohibit conquest, space warring and rent-seeking in space. We will stimulate economic growth, provide support for colonies which we license, and create new technologies.<br><br>
+          >> The independent colonies that are left over or settle here will only be able to rent a license and never buy one, and we can jack up rent at will and price them out, so the corpotocracies can get all the land without any confrontation.<br><br>
+          >> We have no problem rent-seeking in space. It's just business.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
