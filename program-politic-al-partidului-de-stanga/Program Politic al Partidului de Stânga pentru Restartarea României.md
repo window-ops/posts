@@ -1,6 +1,6 @@
 # Program Politic al Partidului de Stânga pentru Restartarea României
 
-România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză profundă a încrederii în clasele politice tradiționale. Avem nevoie urgent de un restart real - o reformă profundă care să reseteze sistemul politic, economic și social.
+România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză a încrederii în clasele politice tradiționale. Avem nevoie urgent de un restart real - o reformă care să reseteze sistemul politic, economic și social.
 
 Partidul de Stânga este primul partid românesc afiliat Grupului Confederal al Stângii Unite Europene (GUE/NGL), iar viziunea noastră este clară: un guvern profesionist, condus de o nouă generație de lideri tineri, competenți și integri, care să lucreze exclusiv în interesul cetățenilor, prin transparență, responsabilitate și justiție socială.
 
@@ -8,8 +8,8 @@ Partidul de Stânga este primul partid românesc afiliat Grupului Confederal al 
 
 Ne dorim o Românie modernă, democratică, ecologică și socială, unde:
 
-- Bunăstarea oamenilor devine prioritatea absolută, contracarând interesele oligarchice și corporatiste dominante.
-- Protecția mediului și dezvoltarea durabilă devin piloni centrali ai politicilor publice, pentru a garanta un viitor sănătos generațiilor viitoare.
+- Bunăstarea oamenilor devine prioritate absolută, contracarând interesele oligarchice și corporatiste dominante.
+- Protecția mediului și dezvoltarea durabilă devin piloni ai politicilor publice, pentru a garanta un viitor sănătos generațiilor viitoare.
 - Cetățenii au un cuvânt real de spus în deciziile politice, prin transparență totală și mecanisme autentice de participare.
 - Economia este echitabilă, respectând drepturile anajaților și asigurând condiții decente de viață pentru toți.
 - Democrația este reală, iar monopolurile politice sunt limitate pentru a da loc unei guvernări responsabile.
@@ -26,15 +26,17 @@ Colaborarea cu partide progresiste - în special cu "Sănătate, Educație, Natu
 
 Clientelismul și incompetența limitează dezvoltarea României. Menținerea unor funcționari cu analfabetism funcțional sau competențe mediocre blochează orice reformă și provoacă pierderi enorme ale resurselor publice.
 
-Guvernul nostru va avea toleranță zero pentru astfel de practici. Vom institui criterii clare, transparente și bazate pe merit pentru toate funcțiile publice. Instituțiile statului vor deveni mecanisme eficiente, transparente și dedicate cetățenilor, prin eliminarea corupției, nepotismului și a risipei.
+Guvernul nostru va avea toleranță zero pentru astfel de practici. Vom institui criterii clare și transparente pentru toate funcțiile publice. Instituțiile statului vor deveni mecanisme eficiente, transparente și dedicate cetățenilor, prin eliminarea corupției, nepotismului și a risipei.
 
 ### 3. Separarea definitivă a Bisericii de Stat și apărarea laicității
 
-România trebuie să devină un stat laic modern, în care deciziile politice și educația să fie total independente de influența bisericii. Ora de religie va fi scoasă din școli, iar Biserica Ortodoxă Română va fi interzisă să susțină orice partid politic, în mod direct sau indirect. Doar astfel vom asigura respectul pentru libertatea religioasă și pluralismul democratic, protejând spațiul public de influențele confesionale.
+România trebuie să devină un stat laic modern, în care deciziile politice și educația să fie total independente de influența bisericii.
+
+Ora de religie va fi scoasă din școli, iar Biserica Ortodoxă Română va fi interzisă să susțină orice partid politic, în mod direct sau indirect. Doar astfel vom asigura respectul pentru libertatea religioasă și pluralismul democratic, protejând spațiul public de influențele confesionale.
 
 ### 4. Educație pentru viață, pentru cetățeni responsabili și critici
 
-Sistemul educațional românesc s-a transformat într-un proces mecanic și contradictoriu, care neglijează formarea integrală a personalității și spiritului critic. Aceasta a generat o generație dezorientată, vulnerabilă și, în unele cazuri, analfabetă funcțional.
+Sistemul educațional românesc s-a transformat într-un proces mecanic și contradictoriu, care neglijează formarea integrală a personalității și spiritului critic. Aceasta a creat o generație dezorientată, vulnerabilă și, în unele cazuri, analfabetă funcțional.
 
 Vom reface educatia pentru a forma cetățeni educați, critici, responsabili - oameni care înțeleg valoarea democrației, drepturilor sociale și protecției mediului, capabili să contribuie activ la binele comun.
 
@@ -73,7 +75,7 @@ Egalitatea de șanse și respectul pentru diversitate vor fi ne-negociabile în 
 
 ### 10. Democratizarea profundă a sistemului politic și economic
 
-Monopolul partidelor mari și aparatele birocratice rigide au sufocat democrația și au marginalizat voința cetățenilor. Pentru a reseta sistemul politic și economic, vom introduce reforme fundamentale:
+Monopolul partidelor mari și aparatele birocratice rigide au sufocat democrația și au marginalizat voința cetățenilor. Pentru a reseta sistemul politic, vom introduce reforme fundamentale:
 
 - Limitarea puterii financiare și influenței partidelor politice.
 - Transparență totală în finanțarea campaniilor electorale și a activității politice.
