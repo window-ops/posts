@@ -18,7 +18,7 @@ Ne dorim o Românie modernă, democratică, ecologică și socială, unde:
 
 ### 1. Un guvern tânăr, profesionist și dedicat interesului public
 
-Refuzăm să fim guvernați de partide fosile și politicieni reciclați, ale căror interese sunt departe de cele ale cetățenilor obișnuiți. Ne asumăm un guvern politic, format din lideri tineri, integri și dedicați valorilor progresiste, care să implementeze reformele noastre profunde pentru justiție socială, democrație reală și protecția mediului, într-o manieră responsabilă, transparentă și fără corupție.
+Refuzăm să fim guvernați de partide fosile și politicieni reciclați, ale căror interese sunt departe de cele ale cetățenilor obișnuiți. Ne asumăm un guvern format din lideri tineri, integri și dedicați valorilor progresiste, care să implementeze reformele noastre profunde pentru justiție socială, democrație reală și protecția mediului, într-o manieră responsabilă, transparentă și fără corupție.
 
 Colaborarea cu partide progresiste - în special cu "Sănătate, Educație, Natură, Sustenabilitate" (SENS) - va da naștere unui guvern verde și social. Acest guvern va combate schimbările climatice, va proteja sănătatea și educația publică și va promova o dezvoltare economică durabilă, adaptată realităților secolului 21.
 
