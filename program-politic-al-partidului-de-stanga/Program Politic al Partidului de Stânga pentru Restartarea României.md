@@ -1,6 +1,6 @@
 # Program Politic al Partidului de Stânga pentru Restartarea României
 
-România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză a încrederii în clasele politice tradiționale. Avem nevoie urgent de un restart real - o reformă care să reseteze sistemul politic, economic și social.
+România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză a încrederii în clasele politice tradiționale. Aceste probleme sunt adâncite de un model economic neoliberal, care favorizează interesele oligarchice și corporatiste în detrimentul cetățenilor și mediului. Avem nevoie urgent de un restart real - o reformă care să reseteze sistemul politic, economic și social.
 
 Partidul de Stânga este primul partid românesc afiliat Grupului Confederal al Stângii Unite Europene (GUE/NGL), iar viziunea noastră este clară: un guvern profesionist, condus de o nouă generație de lideri tineri, competenți și integri, care să lucreze exclusiv în interesul cetățenilor, prin transparență, responsabilitate și justiție socială.
 
@@ -18,7 +18,7 @@ Ne dorim o Românie modernă, democratică, ecologică și socială, unde:
 
 ### 1. Un guvern tânăr, profesionist și dedicat interesului public
 
-Refuzăm să fim guvernați de partide fosile și politicieni reciclați, ale căror interese sunt departe de cele ale cetățenilor obișnuiți. Ne asumăm un guvern format din profesioniști competenți, lideri tineri și integri, care să pună binele comun mai presus de orice interes personal sau grup.
+Refuzăm să fim guvernați de partide fosile și politicieni reciclați, ale căror interese sunt departe de cele ale cetățenilor obișnuiți. Ne asumăm un guvern politic, format din lideri tineri, integri și dedicați valorilor progresiste, care să implementeze reformele noastre profunde pentru justiție socială, democrație reală și protecția mediului, într-o manieră responsabilă, transparentă și fără corupție.
 
 Colaborarea cu partide progresiste - în special cu "Sănătate, Educație, Natură, Sustenabilitate" (SENS) - va da naștere unui guvern verde și social. Acest guvern va combate schimbările climatice, va proteja sănătatea și educația publică și va promova o dezvoltare economică durabilă, adaptată realităților secolului 21.
 
@@ -83,9 +83,11 @@ Monopolul partidelor mari și aparatele birocratice rigide au sufocat democrați
 
 ## Colaborarea la nivel european pentru un viitor comun
 
-Suntem convinși că România nu poate face acest restart în izolare. Parte a Uniunii Europene, România trebuie să colaboreze activ cu stânga europeană pentru a construi un proiect comun de justiție socială, protecție a mediului și democrație participativă.
+Suntem convinși că România nu poate realiza acest restart în izolare. Ca membră a Uniunii Europene, România trebuie să colaboreze activ cu stânga europeană pentru a construi împreună un proiect comun bazat pe justiție socială, protecția mediului și democrație participativă.
 
-Restartul României este parte din marea transformare europeană spre un continent mai echitabil, mai verde și democratic.
+Partidul de Stânga este ferm pentru Uniunea Europeană și consideră apartenența României la UE o oportunitate pentru dezvoltare socială, consolidarea drepturilor și întărirea democrației.
+
+Totodată, suntem conștienți că proiectul european necesită reforme profunde și urgente. Ne dorim o Uniune Europeană care să devină un spațiu al echității sociale, al democrației participative reale și al sustenabilității ecologice - un proiect al cetățenilor, nu doar al marilor interese economice sau al birocrației.
 
 ## Concluzie
 
