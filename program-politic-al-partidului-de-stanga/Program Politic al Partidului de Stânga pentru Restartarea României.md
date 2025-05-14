@@ -1,6 +1,6 @@
 # Program Politic al Partidului de Stânga pentru Restartarea României
 
-România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză a încrederii în clasele politice tradiționale. Aceste probleme sunt adâncite de un model economic neoliberal, care favorizează interesele oligarchice și corporatiste în detrimentul cetățenilor și mediului. Avem nevoie urgent de un restart real - o reformă care să reseteze sistemul politic, economic și social.
+România este marcată în prezent de stagnare economică, inegalități sociale profunde, degradare ecologică alarmantă, corupție endemică și o criză a încrederii în clasele politice tradiționale. Avem nevoie urgent de un restart real - o reformă care să reseteze sistemul politic, economic și social.
 
 Partidul de Stânga este primul partid românesc afiliat Grupului Confederal al Stângii Unite Europene (GUE/NGL), iar viziunea noastră este clară: un guvern profesionist, condus de o nouă generație de lideri tineri, competenți și integri, care să lucreze exclusiv în interesul cetățenilor, prin transparență, responsabilitate și justiție socială.
 
